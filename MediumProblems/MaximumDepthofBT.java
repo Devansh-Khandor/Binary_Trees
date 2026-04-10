@@ -41,7 +41,5 @@ public class MaximumDepthofBT {
         TreeNode root = tree.buildPreorder(nodes);
         int depth = maxDepth(root);
         System.out.println(depth);
-
-
     }
 }
